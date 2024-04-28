@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir1526&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir1526" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET CORE,Angular**
+- 🌱 I’m currently learning **Azure, DevOps**
 
-- 💬 Ask me about **ASP.NET MVC**
+- 💬 Ask me about **.NET**
 
 - 📫 How to reach me **astro.tanvir70@gmail.com**
 
